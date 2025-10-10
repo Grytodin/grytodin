@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  <img src="https://64.media.tumblr.com/5d60d1ff1e0f8dd1545b708e67a7d20e/tumblr_p8f4z3nG2m1u1w3r7o1_540.gif" width="350px" alt="anime coder"><br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIwY2JjN2d2NGVvcnU2eWx6MTN4Z21lYjhlMHVnc21zOXhmYjUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIYVI7Iz4dmnu/giphy.gif" width="350px" alt="anime coder"><br>
 </p>
 
 <p align="center">
@@ -33,7 +33,6 @@
 <p align="center">
 
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
