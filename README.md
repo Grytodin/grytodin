@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=☕+Sipping+tea...;🌸+Watching+the+sunset+over+my+code;💤+Dreaming+of+clean+commits...&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=(´｡•‿•｡`)♡;+Спокойно+дебажу+под+лофи...;Код+поёт,+а+душа+улыбается~&center=true&size=27">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://discord.gg/Hpmy6PQz7b" title="LinkedIn Profile"><img width="22" src="images/discord.png"> Discord server</a></code>
-  <code><a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://discord.gg/Hpmy6PQz7b"<img width="22" src="images/discord.png"> Discord server</a></code>
+  <code><a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr"<img width="22"  Instagram</a></code>
 </h5>
 <br>
 <p align="center">
