@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌸+Просто+парень,+который+любит+код+и+чай...;☕+Учусь,+ошибаюсь,+расту,+улыбаюсь~;💻+Lofi,+аниме+и+строки+кода+—+мой+вайб.&center=true&size=25" alt="typing animation"">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌸+Просто+парень,+который+любит+код+и+чай...;☕+Учусь,+ошибаюсь,+расту,+улыбаюсь~;💻+Lofi,+аниме+и+строки+кода+—+мой+вайб.&center=true&size=25" alt="typing animation">
   </a>
 </h1>
 
@@ -11,15 +11,20 @@
   <code><a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr"<img width="22"  Instagram</a></code>
 </h5>
 <br>
-<p align="left">
-  👋 Привет! Я просто фан-программист из Украины 🇺🇦<br>
-  💻 Учусь писать ботов, скрипты и разные мелкие проекты.<br>
-  🌱 Пока я новичок, но расту снизу — шаг за шагом, строка за строкой.<br>
-  🌸 Люблю уют, аниме, ночные посиделки и горячий чай под лofi ☕<br>
-  🚀 Мне нравится экспериментировать с кодом и придумывать что-то своё.<br>
-  📂 Можешь заглянуть в мои проекты — там мой путь и прогресс.<br>
-  💬 Если хочешь что-то спросить или просто поболтать — пиши свободно!<br>
-  📫 Контакт: <a href="mailto:your_email@example.com">your_email@example.com</a><br>
+<p align="center">
+  <img src="https://64.media.tumblr.com/5d60d1ff1e0f8dd1545b708e67a7d20e/tumblr_p8f4z3nG2m1u1w3r7o1_540.gif" width="350px" alt="anime coder"><br>
+</p>
+
+<p align="center">
+  <samp>
+    👋 Привет! Я просто фан-программист из Украины 🇺🇦<br>
+    💻 Учусь писать ботов, скрипты и разные мелкие проекты.<br>
+    🌱 Пока я новичок, но расту снизу — шаг за шагом, строка за строкой.<br>
+    🌸 Люблю уют, аниме и код под звуки дождя.<br>
+    🚀 Можешь заглянуть в мои проекты — там мой путь и прогресс.<br>
+    💬 Хочешь поболтать или предложить идею — пиши свободно!<br>
+    📫 Контакт: <a href="mailto:your_email@example.com">your_email@example.com</a><br>
+  </samp>
 </p>
 
 <hr>
