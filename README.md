@@ -1,10 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Просто+парень,+который+любит+код+и+чай...;☕+Учусь,+ошибаюсь,+расту,+улыбаюсь~;💻+Lofi,+аниме+и+строки+кода+—+мой+вайб.&center=true&size=25" alt="typing animation">
-  </a>
-</h1>
+
 
 <h5 align="center">
   <code><a href="https://discord.gg/Hpmy6PQz7b"<img width="22" src="images/discord.png"> Discord server</a></code>
