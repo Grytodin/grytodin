@@ -2,8 +2,12 @@
 
 <br>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIwY2JjN2d2NGVvcnU2eWx6MTN4Z21lYjhlMHVnc21zOXhmYjUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIYVI7Iz4dmnu/giphy.gif" width="500px" alt="anime coder"><br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIwY2JjN2d2NGVvcnU2eWx6MTN4Z21lYjhlMHVnc21zOXhmYjUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIYVI7Iz4dmnu/giphy.gif"
+       width="400px"
+       height="250px"
+       alt="anime coder"><br>
 </p>
+
 <h5 align="center">
   <code><a href="https://discord.gg/Hpmy6PQz7b"<img width="22" src="images/discord.png"> Discord server</a></code>
   <code><a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr"<img width="22"  Instagram</a></code>
