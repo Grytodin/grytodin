@@ -1,12 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin">
 
 <br>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIwY2JjN2d2NGVvcnU2eWx6MTN4Z21lYjhlMHVnc21zOXhmYjUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIYVI7Iz4dmnu/giphy.gif"
-       width="700px"
-       height="350px"
-       alt="anime coder"><br>
-</p>
+
 
 <h5 align="center">
   <code><a href="https://discord.gg/Hpmy6PQz7b"<img width="22" src="images/discord.png"> Discord server</a></code>
