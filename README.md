@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIwY2JjN2d2NGVvcnU2eWx6MTN4Z21lYjhlMHVnc21zOXhmYjUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIYVI7Iz4dmnu/giphy.gif"
        width="400px"
-       height="250px"
+       height="50px"
        alt="anime coder"><br>
 </p>
 
