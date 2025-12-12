@@ -1,87 +1,89 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin">
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Grytodin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 
-<br>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin&left_color=black&right_color=0072ff" alt="visitor badge"/>
+  </a>
 
+  <br><br>
 
-<h5 align="center">
-  <code><a href="https://discord.gg/Hpmy6PQz7b"<img width="22" src="images/discord.png"> Discord server</a></code>
-  <code><a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr"<img width="22"  Instagram</a></code>
-</h5>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Python+%26+JS+Learner;Anime+Lover;Ukranian+Developer+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <a href="https://discord.gg/Hpmy6PQz7b">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+</div>
+
+<hr>
+
+<h3 align="center">🌸 Обо мне</h3>
+
 <p align="center">
   <samp>
-    👋 Привет! Я просто фан-программист из Украины 🇺🇦<br>
+    👋 <b>Привет! Я просто фан-программист из Украины 🇺🇦</b><br><br>
     💻 Учусь писать ботов, скрипты и разные мелкие проекты.<br>
     🌱 Пока я новичок, но расту снизу — шаг за шагом, строка за строкой.<br>
-    🌸 Люблю уют, аниме и код под звуки дождя.<br>
-    🚀 Можешь заглянуть в мои проекты — там мой путь и прогресс.<br>
-    💬 Хочешь поболтать или предложить идею — пиши свободно!<br>
+    🌧 Люблю уют, аниме и код под звуки дождя.<br>
+    🚀 Заглядывай в мои репозитории — там мой путь и прогресс.<br>
+    💬 Хочешь поболтать или предложить идею — пиши свободно!
   </samp>
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
 
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-</p>
+<h3 align="center">🔥 Стек технологий</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,vscode,github,react" alt="Tech Stack" />
+</div>
+
+<br>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Grytodin&theme=react&border=61dafb&hide_border=true" alt="Grytodin" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Grytodin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grytodin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
+<h3 align="center">⚡ Статистика</h3>
 
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Grytodin&theme=react&border=61dafb&hide_border=true&card_width=800" alt="Streak Stats" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding-right: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Grytodin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        </a>
+      </td>
+      <td style="border: none; padding-left: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grytodin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grytodin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</div>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-><br/>
 
 <h4 align="center">
-  <a href="https://github.com/Grytodin?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Grytodin?tab=repositories">🔎 Посмотреть все репозитории 🔍</a>
 </h4>
-
-
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
