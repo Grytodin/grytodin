@@ -1,89 +1,126 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Grytodin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Grytodin.grytodin&left_color=black&right_color=0072ff" alt="visitor badge"/>
-  </a>
+# 👋 Привет! Я Grytodin
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=600&lines=Разработчик+из+Украины+🇺🇦;Люблю+код+%2B+аниме+%2B+уют;Создаю+ботов+и+автоматизацию;Всегда+открыт+к+новым+идеям!" alt="Typing SVG" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Python+%26+JS+Learner;Anime+Lover;Ukranian+Developer+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
-  </a>
-
-  <br>
-
+<p>
   <a href="https://discord.gg/Hpmy6PQz7b">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-
-</div>
-
-<hr>
-
-<h3 align="center">🌸 Обо мне</h3>
-
-<p align="center">
-  <samp>
-    👋 <b>Привет! Я просто фан-программист из Украины 🇺🇦</b><br><br>
-    💻 Учусь писать ботов, скрипты и разные мелкие проекты.<br>
-    🌱 Пока я новичок, но расту снизу — шаг за шагом, строка за строкой.<br>
-    🌧 Люблю уют, аниме и код под звуки дождя.<br>
-    🚀 Заглядывай в мои репозитории — там мой путь и прогресс.<br>
-    💬 Хочешь поболтать или предложить идею — пиши свободно!
-  </samp>
+  <img src="https://komarev.com/ghpvc/?username=Grytodin&style=for-the-badge&color=61dafb" alt="Profile views"/>
 </p>
 
-<br>
-
-<h3 align="center">🔥 Стек технологий</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,vscode,github,react" alt="Tech Stack" />
 </div>
 
-<br>
-<hr>
+-----
 
-<h3 align="center">⚡ Статистика</h3>
+## 🌟 Обо мне
 
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Grytodin&theme=react&border=61dafb&hide_border=true&card_width=800" alt="Streak Stats" />
-  </a>
-</div>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Grytodin"
+        self.location = "Украина 🇺🇦"
+        self.role = "Backend Developer & Automation Enthusiast"
+        self.interests = ["Боты", "Автоматизация", "Web-скрипты", "Аниме"]
+        self.learning = ["Python", "JavaScript", "API Integration"]
+        self.motto = "От нуля к герою — одна строка за раз"
+    
+    def current_focus(self):
+        return [
+            "Разработка Telegram ботов",
+            "Автоматизация рутинных задач",
+            "Изучение новых технологий",
+            "Создание удобных инструментов"
+        ]
+```
 
-<br>
+💡 **Моя философия:** Код должен быть не только рабочим, но и красивым. Как хорошая мелодия под дождь — всё должно быть на своём месте.
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none; padding-right: 10px;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Grytodin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-        </a>
-      </td>
-      <td style="border: none; padding-left: 10px;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grytodin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+-----
 
-<br>
+## 🛠️ Технологический стек
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grytodin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+### Языки программирования
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Инструменты разработки
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Фреймворки и библиотеки
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 </div>
 
-<hr>
+-----
 
-<h4 align="center">
-  <a href="https://github.com/Grytodin?tab=repositories">🔎 Посмотреть все репозитории 🔍</a>
-</h4>
+## 📊 GitHub статистика
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grytodin&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grytodin&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Grytodin&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grytodin&custom_title=График%20активности&bg_color=0D1117&color=61DAFB&line=61DAFB&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+</div>
+
+-----
+
+## 🏆 Достижения
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Grytodin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</div>
+
+-----
+
+## 🚀 Мои проекты
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grytodin&repo=repository-name&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Grytodin)
+
+</div>
+
+
+> 💼 **Ищете больше?** Загляните в мои [репозитории](https://github.com/Grytodin?tab=repositories) — там много интересного!
+
+-----
+
+## 💬 Давайте общаться!
+
+<div align="center">
+
+Открыт к сотрудничеству, новым идеям и просто приятному общению.  
+Не стесняйтесь писать — буду рад помочь или просто поболтать о коде! ☕
+
+**📧 Связаться со мной:**
+
+[![Discord](https://img.shields.io/badge/Discord-Присоединяйся-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Hpmy6PQz7b)
+[![Instagram](https://img.shields.io/badge/Instagram-Подписывайся-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ainixias?igsh=MWJ2Z3cwcDI2NjVhNQ%3D%3D&utm_source=qr)
+
+-----
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
+
+</div>
